@@ -1,0 +1,22 @@
+{
+    "cursos":[
+        {
+            "id":1,
+            "nome":"Mtec-PI Desenvolvimento de Sistemas", 
+            "diciplinas":["WEB III","BD", "PAM II"],
+            "carga-horaria":3600
+        },
+        {
+            "id":2,
+            "nome":"Mtec-N Informática", 
+            "diciplinas":["Proj de Informática","D SE e Internet das Coisas", "P TIC"],
+            "carga-horaria":1200
+        },
+        {
+            "id":3,
+            "nome":"Mtec-N Informática para Internet", 
+            "diciplinas":["Interfaces Web I","BD", "P TIC"],
+            "carga-horaria":1200
+        }
+    ]
+}

@@ -18,5 +18,11 @@
             "diciplinas":["Interfaces Web I","BD", "P TIC"],
             "carga-horaria":1200
         }
+    ],
+    "professores":[
+        {"id":1, "nome":"Alicia"},
+        {"id":2, "nome":"Daniel"},
+        {"id":3, "nome":"Heliene"},
+        {"id":4, "nome":"Votto"}
     ]
 }
